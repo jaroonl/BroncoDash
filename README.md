@@ -1,6 +1,6 @@
-# CampusCart
+# BroncoDash
 
-A full-stack food delivery web app for California State Polytechnic University, Pomona, built as the final project for CS 3560 at Cal Poly Pomona. Students can browse restaurants/menus, manage their profiles, and place orders through a cart and checkout flow.
+A full-stack food delivery web app for Cal Poly Pomona students, built as the final project for CS 3560. Students can browse restaurants/menus, manage their profiles and saved locations, and place orders through a cart and checkout flow.
 
 **Tech stack:** React, Flask (REST API), MySQL
 
